@@ -1,7 +1,7 @@
 # 📚 Pustakalaya
 
 <p align="center">
-  <img src="./mobile/assets/image/readme_banner.png" alt="Pustakalaya Banner" width="100%">
+  <img src="/banner/readme_banner.png" alt="Pustakalaya Banner" width="100%">
 </p>
 
 <p align="center">
